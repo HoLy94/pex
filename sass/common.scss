@@ -1,0 +1,67 @@
+// COMMON STYLES
+
+* {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	font-family: 'OpenSans', sans-serif;
+	font-weight: 400;
+	font-size: 12px;
+}
+
+.sect {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 3em;
+	color: #fff;
+}
+
+h2 {
+	color: #fff;
+}
+
+p {
+	color: #fff;
+	font-size: 1.16667em;
+	font-weight: 300;
+}
+
+button{
+	border: 1px solid transparent;
+	padding: 21px 60px;
+	border-radius: 30px;
+	color: #fff;
+	font-weight: 400;
+	&:focus{
+		outline: none;
+	}
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+

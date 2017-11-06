@@ -1,0 +1,25 @@
+// IE Styles
+
+.m-menu *,
+#about *,
+#team *,
+#buy * {
+	behavior: url(../js/pie.htc);
+}
+
+#header,
+#we-are,
+#bottom .contact a {
+	behavior: url(../js/backgroundsize.min.htc);
+}
+
+
+
+
+
+
+
+
+
+
+
